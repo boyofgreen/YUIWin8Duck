@@ -9,5 +9,6 @@ Web: version of app that runs in a browser, basically the YUI demo with a bit of
 
 Win8: same version of the web with the YUI library locally so the App can run completely local as a Windows 8 App
 
-WP8: Coming soon...
+WP8: same version of the web, YUI locally, Windows Phone 8 Project.
+
 
