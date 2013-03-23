@@ -1,0 +1,44 @@
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bin\Debug\resources.pri
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bin\Debug\AppxManifest.xml
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bin\Debug\YUItest one.build.appxrecipe
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bld\Debug\priconfig.xml.intermediate
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bld\Debug\layout.resfiles.intermediate
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bld\Debug\resources.resfiles.intermediate
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bld\Debug\pri.resfiles.intermediate
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bld\Debug\priconfig.xml
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bld\Debug\layout.resfiles
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bld\Debug\resources.resfiles
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bld\Debug\pri.resfiles
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bld\Debug\LanguageQualifiers.txt
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bld\Debug\ProjectArchitectures.txt
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bin\Debug\resources.pri
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bin\Debug\AppxManifest.xml
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bin\Debug\YUItest one.build.appxrecipe
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Debug\priconfig.xml.intermediate
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Debug\layout.resfiles.intermediate
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Debug\resources.resfiles.intermediate
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Debug\pri.resfiles.intermediate
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Debug\priconfig.xml
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Debug\layout.resfiles
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Debug\resources.resfiles
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Debug\pri.resfiles
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Debug\LanguageQualifiers.txt
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Debug\ProjectArchitectures.txt
+C:\Users\boyof_000\Documents\projects\YUIDuck\appOne\YUItest one\bin\Debug\resources.pri
+C:\Users\boyof_000\Documents\projects\YUIDuck\appOne\YUItest one\bin\Debug\AppxManifest.xml
+C:\Users\boyof_000\Documents\projects\YUIDuck\appOne\YUItest one\bin\Debug\YUItest one.build.appxrecipe
+C:\Users\boyof_000\Documents\projects\YUIDuck\appOne\YUItest one\bld\Debug\priconfig.xml
+C:\Users\boyof_000\Documents\projects\YUIDuck\appOne\YUItest one\bld\Debug\layout.resfiles
+C:\Users\boyof_000\Documents\projects\YUIDuck\appOne\YUItest one\bld\Debug\resources.resfiles
+C:\Users\boyof_000\Documents\projects\YUIDuck\appOne\YUItest one\bld\Debug\pri.resfiles
+C:\Users\boyof_000\Documents\projects\YUIDuck\appOne\YUItest one\bld\Debug\LanguageQualifiers.txt
+C:\Users\boyof_000\Documents\projects\YUIDuck\appOne\YUItest one\bld\Debug\ProjectArchitectures.txt
+C:\Users\boyof_000\Documents\projects\YUIWin8Duck\win8\YUItest one\bin\Debug\resources.pri
+C:\Users\boyof_000\Documents\projects\YUIWin8Duck\win8\YUItest one\bin\Debug\AppxManifest.xml
+C:\Users\boyof_000\Documents\projects\YUIWin8Duck\win8\YUItest one\bin\Debug\YUItest one.build.appxrecipe
+C:\Users\boyof_000\Documents\projects\YUIWin8Duck\win8\YUItest one\bld\Debug\priconfig.xml
+C:\Users\boyof_000\Documents\projects\YUIWin8Duck\win8\YUItest one\bld\Debug\layout.resfiles
+C:\Users\boyof_000\Documents\projects\YUIWin8Duck\win8\YUItest one\bld\Debug\resources.resfiles
+C:\Users\boyof_000\Documents\projects\YUIWin8Duck\win8\YUItest one\bld\Debug\pri.resfiles
+C:\Users\boyof_000\Documents\projects\YUIWin8Duck\win8\YUItest one\bld\Debug\LanguageQualifiers.txt
+C:\Users\boyof_000\Documents\projects\YUIWin8Duck\win8\YUItest one\bld\Debug\ProjectArchitectures.txt

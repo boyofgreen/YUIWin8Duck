@@ -1,0 +1,22 @@
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bin\Release\resources.pri
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bin\Release\AppxManifest.xml
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bin\Release\YUItest one.build.appxrecipe
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bld\Release\priconfig.xml
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bld\Release\layout.resfiles
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bld\Release\resources.resfiles
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bld\Release\pri.resfiles
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bld\Release\LanguageQualifiers.txt
+C:\Users\jeffburt\Documents\Visual Studio 2012\Projects\YUItest one\YUItest one\bld\Release\ProjectArchitectures.txt
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bin\Release\resources.pri
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bin\Release\AppxManifest.xml
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bin\Release\YUItest one.build.appxrecipe
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Release\priconfig.xml
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Release\layout.resfiles
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Release\resources.resfiles
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Release\pri.resfiles
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Release\LanguageQualifiers.txt
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Release\ProjectArchitectures.txt
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Release\priconfig.xml.intermediate
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Release\layout.resfiles.intermediate
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Release\resources.resfiles.intermediate
+C:\Users\jeffburt\Documents\projects\YUItest one\YUItest one\bld\Release\pri.resfiles.intermediate

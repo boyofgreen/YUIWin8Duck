@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferenceCachePath>C:\Users\boyof_000\AppData\Local\Temp\4wsh2kkk_YUItest one_refcache</ReferenceCachePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+    <MachineName>10.83.138.85 (Belle)</MachineName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+    <MachineName>10.83.138.85 (Belle)</MachineName>
+  </PropertyGroup>
+</Project>

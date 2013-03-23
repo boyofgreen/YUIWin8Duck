@@ -1,0 +1,26 @@
+
+.stage {
+    display: -ms-flexbox;
+    -ms-flex-align: center;
+    -ms-flex-direction: column;
+    -ms-flex-pack:center;
+
+}
+
+@-ms-viewport {
+
+   width: 910px;
+            
+}
+body {
+                
+    background: url(images/fusillade-3.png) no-repeat right 340px, black url(images/tablepoker-5.jpg) repeat-x;
+    background-size: 50%, auto;
+    padding-top:100px;
+}
+
+.controls {
+    padding: 20px;
+    background: -ms-radial-gradient(center, ellipse cover, rgba(45,39,0,.5) 0%,rgba(22,20,0,.3) 84%,rgba(0,0,0,.1) 97%); /* IE10+ */
+            
+}
